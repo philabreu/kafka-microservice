@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "name": "Discount",
+  "namespace": "br.com.38aso",
+  "fields": [
+    {
+      "name": "cpf",
+      "type": "string"
+    },
+    {
+      "name": "pontos",
+      "type": "long"
+    }
+  ]
+}

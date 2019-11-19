@@ -1,0 +1,23 @@
+{
+  "type": "record",
+  "name": "Customer",
+  "namespace": "br.com.38aso",
+  "fields": [
+    {
+      "name": "cpf",
+      "type": "string"
+    },
+    {
+      "name": "nome",
+      "type": "string"
+    },
+    {
+      "name": "endereco",
+      "type": "string"
+    },
+    {
+      "name": "dataNascimento",
+      "type": "date"
+    }
+  ]
+}
