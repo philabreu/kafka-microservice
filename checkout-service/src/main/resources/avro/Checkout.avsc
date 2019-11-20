@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "name": "Checkout",
+  "namespace": "br.com.38aso",
+  "fields": [
+    {
+      "name": "transaction",
+      "type": "long"
+    },
+    {
+      "name": "status",
+      "type": "boolean"
+    }
+  ]
+}

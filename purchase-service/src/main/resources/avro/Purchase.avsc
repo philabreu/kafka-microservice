@@ -1,0 +1,27 @@
+{
+  "type": "record",
+  "name": "Purchase",
+  "namespace": "br.com.38aso",
+  "fields": [
+    {
+      "name": "cpf",
+      "type": "string"
+    },
+    {
+      "name": "product",
+      "type": "long"
+    },
+    {
+      "name": "amount",
+      "type": "integer"
+    },
+    {
+      "name": "order",
+      "type": "integer"
+    },
+    {
+      "name": "value",
+      "type": "float"
+    }
+  ]
+}
