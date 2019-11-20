@@ -8,15 +8,15 @@
       "type": "string"
     },
     {
-      "name": "nome",
+      "name": "name",
       "type": "string"
     },
     {
-      "name": "endereco",
+      "name": "address",
       "type": "string"
     },
     {
-      "name": "dataNascimento",
+      "name": "birthDate",
       "type": "date"
     }
   ]

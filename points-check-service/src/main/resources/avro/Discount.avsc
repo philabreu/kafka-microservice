@@ -8,7 +8,7 @@
       "type": "string"
     },
     {
-      "name": "pontos",
+      "name": "point",
       "type": "long"
     }
   ]

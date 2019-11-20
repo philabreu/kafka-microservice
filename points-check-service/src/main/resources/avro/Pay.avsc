@@ -1,0 +1,23 @@
+{
+  "type": "record",
+  "name": "Pay",
+  "namespace": "br.com.38aso",
+  "fields": [
+    {
+      "name": "cpf",
+      "type": "string"
+    },
+    {
+      "name": "order",
+      "type": "integer"
+    },
+    {
+      "name": "value",
+      "type": "float"
+    }
+    {
+      "name": "transaction",
+      "type": "long"
+    }
+  ]
+}
